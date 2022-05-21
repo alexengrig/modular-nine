@@ -1,0 +1,4 @@
+rootProject.name = 'modular-nine'
+
+include 'greeting'
+
